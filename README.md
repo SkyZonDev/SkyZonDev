@@ -20,4 +20,4 @@
 **⭐Github Stats**
 
 <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyzondev&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-<img align=top src="https://github-readme-stats.vercel.app/api?username=skyzondev&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<img align=top src="https://github-readme-stats.vercel.app/api?username=skyzondev&show_icons=true&title_color=ffffff&icon_color=5d3ae6&text_color=daf7dc&bg_color=151515"/>
