@@ -1,4 +1,4 @@
-### Hey there 👋 I'm SkyZonDev
+### Hey there 👋 I'm Jean-Pierre
 
 ### About Me
 - I'm a final year student (yes, I don't have my baccalaureate yet) but I love programming ! 💻
