@@ -1,7 +1,7 @@
 ### Hey there 👋 I'm Jean-Pierre
 
 ### About Me
-- I'm a final year student (yes, I don't have my baccalaureate yet) but I love programming ! 💻
+- I am a first year engineering student and programming is more than a passion for me! 💻
 
 - I am mainly a web developer but I am also training to be a software developer. If you have any advice, I'm all ears 👌
 
