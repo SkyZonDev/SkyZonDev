@@ -19,12 +19,15 @@ I'm a first-year engineering student with a passion for programming. Since I was
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
 
 
-## Featured projects 🚀
+## 🌟 Featured projects 🚀
+- **[Authentication API REST](https://github.com/SkyZonDev/AUTH_API_REST)** :
+  A modular authentication API that supports PostgreSQL, MongoDB, and MySQL. This project demonstrates my backend development skills and API security implementations.
+
 - **[Authentication page](https://github.com/SkyZonDev/com.skyzondev.auth_pages)** :
-A complete authentication page built using HTML, CSS, JavaScript and PHP. This project showcases my front- and back-end web development skills. It includes client-side validation, session management and a responsive user interface.
+  A complete authentication page built using HTML, CSS, JavaScript and PHP. This project showcases my front- and back-end web development skills. It includes client-side validation, session management and a responsive user interface.
 
 - **[Discord Bot](https://github.com/SkyZonDev/com.skyzondev.altx-bot)** :
-A Discord bot developed with Discord.js. This bot is capable of responding to custom commands, managing events and interacting with users in a fluid manner. This project enabled me to familiarise myself with APIs, asynchronism in JavaScript, and good bot development practices.
+  A Discord bot developed with Discord.js. This bot is capable of responding to custom commands, managing events and interacting with users in a fluid manner. This project enabled me to familiarise myself with APIs, asynchronism in JavaScript, and good bot development practices.
 
 ## GitHub statistics 📊
 
