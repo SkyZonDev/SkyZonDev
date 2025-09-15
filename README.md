@@ -1,9 +1,15 @@
 # Hey, I'm Jean-Pierre! 👨‍💻
 
 ## About me 👨‍🎓
-I'm a first-year engineering student with a passion for programming. Since I was very young, coding has become more than just a hobby for me, it's a real passion that I pursue enthusiastically every day.
+I'm a second-year engineering student passionate about software development. Since childhood, coding has been more than a hobby—it's a real passion that I pursue with enthusiasm every day.
 
-💻 **Web development** : I specialize in web development while developing my skills to become a complete software developer. If you have any advice or recommendations, I'm all ears! 🎯
+💻 **Web & Mobile Development** : I design and build modern applications, from responsive web apps to mobile solutions, while continuously improving my skills with new frameworks and tools.
+
+🚀 **CI/CD & Deployment** : I’ve started exploring DevOps practices such as continuous integration, continuous deployment, and containerization with Docker to streamline and automate application delivery.
+
+⚙️ **Systems Programming** : Currently learning C to strengthen my understanding of low-level programming and computer science fundamentals.
+
+🎯 Always eager to learn, share, and contribute to exciting projects. If you have any advice, recommendations, or opportunities, I’d be happy to connect!
 
 ## Languages et tools 🛠️
 <img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> 
@@ -12,11 +18,12 @@ I'm a first-year engineering student with a passion for programming. Since I was
 <img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
 <img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
 <img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
-<img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" /> 
 <img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
-<img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
-<img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
+<img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> 
+<img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> 
+<img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" /> 
+<img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> 
 
 
 ## 🌟 Featured projects 🚀
